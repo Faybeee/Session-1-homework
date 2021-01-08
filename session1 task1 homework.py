@@ -1,6 +1,6 @@
 import random
 
-number: int = random.randint(0, 10)
+number: int = random.randint(1, 10)
 
 
 print(number)
@@ -8,7 +8,7 @@ print(number)
 print("Hello, I am a random number guessing game!")
 user_input = input ("What is your name?")
 
-print("Hello", user_input, "Let's play a game!  I'm thinking of a number between 0 and 10, try and guess what it is!")
+print("Hello", user_input, "Let's play a game!  I'm thinking of a number between 1 and 10, try and guess what it is!")
 
 guess = int
 while guess != number:
