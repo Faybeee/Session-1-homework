@@ -12,7 +12,7 @@ print("Great job!")
 
 print ("""
     A = Add Numbers together.
-    B = Add Numbers together.
+    B = Subtract the second number from the first.
     C = Divide second number by first number.
     D = Multiply numbers together.
     E = First number to the power of second.
