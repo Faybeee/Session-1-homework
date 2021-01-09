@@ -2,9 +2,6 @@ import random
 
 number: int = random.randint(1, 10)
 
-
-print(number)
-
 print("Hello, I am a random number guessing game!")
 user_input = input ("What is your name?")
 
